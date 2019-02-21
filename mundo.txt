@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bagui ta dhr moco
+=======
+Olá Galera!
+>>>>>>> olhae
